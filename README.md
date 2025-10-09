@@ -1,6 +1,6 @@
 ## Hey, I'm Jerome
 
-- 🚀 Full-stack developer | Next.js, TypeScript, Prisma
+- 🚀 Full-stack developer
 - 🌐 Portfolio: jeromejoseph.dev
 - 🔭 I’m currently working on a Journalling App
 - 🌱 I’m currently studying Software Engineering at AUT
