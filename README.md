@@ -58,7 +58,7 @@ I am a Software Engineering student at AUT who enjoys building reliable, efficie
 **Live:** Orivis App  
 **Code:** https://github.com/Jeromejosephh/orivis  
 
-A minimalist, privacy first habit tracker focused on progress, clarity and delightful feedback. Helps users create and organize habits, complete daily actions, track streaks and view trends at a glance. Includes celebratory micro interactions, clean UI flows and exportable data.
+A mobile quality control app that streamlines production inspections. Capture or import images, get instant ML-powered defect classification, and maintain a searchable inspection history with metadata tracking. Features include real-time pass rate analytics, filterable results by status and date, swipe-to-action workflows (share, edit, delete), and detailed inspection records—all designed for fast decision-making on the production floor.
 
 **Tech:** Next.js 15, React 19, TypeScript, Prisma + PostgreSQL (Neon), NextAuth, Tailwind CSS v4, Vitest, Vercel, Sentry, Upstash Rate Limiting  
 
@@ -72,7 +72,7 @@ A minimalist, privacy first habit tracker focused on progress, clarity and delig
 **Live:** https://routiva.app  
 **Code:** https://github.com/Jeromejosephh/routiva  
 
-A production full stack habit tracker with magic link authentication, UTC safe daily logs, streaks, analytics, rate limiting and CI hardening.
+A minimalist, privacy first habit tracker focused on progress, clarity and delightful feedback. Helps users create and organize habits, complete daily actions, track streaks and view trends at a glance. Includes celebratory micro interactions, clean UI flows and exportable data.
 
 **Tech:** Next.js, React, TypeScript, Prisma, PostgreSQL, Auth.js, Upstash Redis, Vercel  
 
