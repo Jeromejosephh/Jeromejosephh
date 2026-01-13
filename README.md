@@ -1,15 +1,20 @@
 # Hi, I'm Jerome Joseph 👋
-Software Engineering Student | Full-Stack Developer | Builder of Practical, Well-Engineered Software
+Software Engineering Student | Junior Full-Stack Engineer | Builder of Production-Ready Systems
 
-I am a Software Engineering student at AUT who enjoys building reliable, efficient and user focused applications. I like solving real problems with clean architecture, predictable systems and a focus on long term maintainability. I am currently building production grade web apps, improving my full stack engineering skills and preparing for internships where I can contribute meaningfully to a team.
+I’m a Software Engineering student at AUT (graduating 2026) focused on building production-grade web applications with clean architecture, predictable behavior, and long-term maintainability.
+
+I enjoy working on problems where correctness, security, and user experience matter - especially in systems that ship to real users. I’m actively preparing for junior software engineering roles where I can contribute meaningful code, learn from experienced engineers, and grow quickly.
 
 ---
 
-## About Me
-- Bachelor of Software Engineering (Honours) at AUT, graduating 2026  
-- Interested in web engineering, cloud deployment, microservices and scalable system design  
-- Strong foundation in OOP, TDD, database design, microservice patterns and documentation  
-- Open to internships, junior roles and collaborative projects  
+## What I Care About
+- Writing maintainable backend and full-stack code
+
+- Designing systems that behave correctly under edge cases
+
+- Shipping features safely using modern tooling and CI/CD
+
+- Clear documentation and predictable data flows
 
 ---
 
