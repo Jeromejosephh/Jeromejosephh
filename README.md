@@ -1,119 +1,96 @@
 # Hi, I'm Jerome Joseph 👋
-Software Engineering Student | Junior Full-Stack Engineer | Builder of Production-Ready Systems
 
-I’m a Software Engineering student at AUT (graduating 2026) focused on building production-grade web applications with clean architecture, predictable behavior, and long-term maintainability.
+Software Engineer | Backend & Full-Stack Developer | Building Scalable Systems
 
-I enjoy working on problems where correctness, security, and user experience matter - especially in systems that ship to real users. I’m actively preparing for junior software engineering roles where I can contribute meaningful code, learn from experienced engineers, and grow quickly.
+Final-year Software Engineering student at AUT (graduating 2026) with hands-on experience building and deploying backend systems and full-stack applications.
+
+I focus on building systems that are reliable, secure, and production-ready - with clean architecture, predictable behavior, and real-world usability.
+
+Currently applying these skills in a professional environment by improving internal workflows using AI-assisted tools.
 
 ---
 
 ## What I Care About
-- Writing maintainable backend and full-stack code
 
-- Designing systems that behave correctly under edge cases
-
-- Shipping features safely using modern tooling and CI/CD
-
-- Clear documentation and predictable data flows
+Designing scalable backend systems and APIs
+Writing clean, maintainable production code
+Building reliable systems that handle real-world edge cases
+Shipping features with solid tooling, testing, and CI/CD
 
 ---
 
-## Tech Stack and Tools
+## 🧰 Tech Stack
 
-### Languages
-![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?logo=postgresql&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-FF6F00?logo=mathworks&logoColor=white)
+Languages:
+Java · Python · JavaScript · TypeScript · C++ · SQL
 
-### Web and App Development
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)
+Backend & Full-Stack:
+FastAPI · Node.js · Express · Next.js · React · Prisma
 
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![Neon](https://img.shields.io/badge/Neon-000000?logo=neon&logoColor=white)
+Databases & Cloud:
+PostgreSQL · Redis · DuckDB · Vercel
 
-### Tools and Platforms
-![Docker](https://img.shields.io/badge/Docker-0db7ed?logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
-![Upstash Redis](https://img.shields.io/badge/Upstash%20Redis-00E9A5?logo=redis&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white)
-![Sentry](https://img.shields.io/badge/Sentry-362D59?logo=sentry&logoColor=white)
+Tools:
+Docker · Git · GitHub · CI/CD
 
 ---
 
 ## Projects
 
-### Orivis  
+### FluxEngine
 ![Status](https://img.shields.io/badge/Status-Live-brightgreen)
-![Next.js](https://img.shields.io/badge/Next.js-black?logo=nextdotjs)
-![Auth](https://img.shields.io/badge/Auth-NextAuth-blue)
 
-**Live:** Orivis App  
-**Code:** https://github.com/Jeromejosephh/orivis  
+**Live:** https://flux-engine.vercel.app
+**Code:** https://github.com/Jeromejosephh/FluxEngine
 
-A mobile quality control app that streamlines production inspections. Capture or import images, get instant ML-powered defect classification, and maintain a searchable inspection history with metadata tracking. Features include real-time pass rate analytics, filterable results by status and date, swipe-to-action workflows (share, edit, delete), and detailed inspection records—all designed for fast decision-making on the production floor.
+Backend workflow automation engine for defining and executing multi-step data pipelines via REST APIs.
 
-**Tech:** Flutter (Dart), Material Design, flutter_slidable, share_plus, local file-based persistence (DataService), cross-platform (iOS, Android, Web, Desktop)
+Scheduled + on-demand execution (APScheduler)
+JWT authentication with role-based access control
+Embedded DuckDB (no external DB required)
+Full-stack interface with Next.js
 
----
+Tech: FastAPI, DuckDB, JWT, APScheduler, Next.js
 
 ### Routiva  
 ![Status](https://img.shields.io/badge/Status-Live-brightgreen)
-![Next.js](https://img.shields.io/badge/Next.js-black?logo=nextdotjs)
-![Auth](https://img.shields.io/badge/Auth-Magic%20Link-blue)
 
-**Live:** https://routiva.app  
-**Code:** https://github.com/Jeromejosephh/routiva  
+**Live:** https://routiva.vercel.app
+**Code:** https://github.com/Jeromejosephh/routiva
 
-A minimalist, privacy first habit tracker focused on progress, clarity and delightful feedback. Helps users create and organize habits, complete daily actions, track streaks and view trends at a glance. Includes celebratory micro interactions, clean UI flows and exportable data.
+Full-stack habit tracking platform focused on simplicity, consistency, and analytics.
 
-**Tech:** Next.js, React, TypeScript, Prisma, PostgreSQL, Auth.js, Upstash Redis, Vercel  
+Secure authentication (magic link)
+Streak tracking and analytics
+Redis caching + PostgreSQL persistence
+Production deployment with CI/CD
 
----
+Tech: Next.js, TypeScript, Prisma, PostgreSQL, Redis
 
-### MyStream Microservices Architecture  
-Containerized microservices with an API gateway, including documented design, security considerations and distributed patterns.
+### Orivis  
+![Status](https://img.shields.io/badge/Status-Live-brightgreen)
 
----
+**Live:** Orivis App  
+**Code:** https://github.com/Jeromejosephh/orivis
 
-### SPEED App  
-Evidence and data management system built to support researcher workflows.
+Offline mobile app for image classification using on-device machine learning.
 
----
+TensorFlow Lite inference (no network required)
+Camera + gallery input pipelines
+Local storage with history, filtering, and export
+Diagnostics tool for preprocessing validation
 
-### Portfolio Website  
-Custom built personal site showcasing projects and experience.  
-**Live:** https://jeromejoseph.dev
+Tech: Flutter, TensorFlow Lite, MobileNetV3
 
----
-
-## What I Am Focusing On
-- Building production grade full stack applications  
-- Improving deployment workflows, code quality and CI/CD  
-- Learning scalable backend patterns  
-- Preparing for industry roles with a strong engineering foundation  
-
----
+🎯 Current Focus
+Backend engineering & system design
+Scalable API development
+Production-ready full-stack applications
+Preparing for graduate software engineering roles
 
 ## Connect With Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://jeromejoseph.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeromejosephh)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Jeromejosephh)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Jeromejoseph311@gmail.com)
 
----
-
-Thank you for visiting my profile
