@@ -2,7 +2,7 @@
 
 Software Engineer | Backend & Full-Stack Developer | Building Scalable Systems
 
-Final-year Software Engineering student at AUT (graduating 2026) with hands-on experience building and deploying backend systems and full-stack applications.
+Software Engineer with hands-on experience building and deploying backend systems and full-stack applications.
 
 I focus on building systems that are reliable, secure, and production-ready - with clean architecture, predictable behavior, and real-world usability.
 
